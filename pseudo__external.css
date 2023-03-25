@@ -1,0 +1,19 @@
+body {
+    background-color: lightseagreen;
+    
+ 
+}
+ a:link{
+    color: black;
+}
+
+a:hover
+{
+    color: green;
+}
+
+a:active
+{
+    color: blue;
+
+}
